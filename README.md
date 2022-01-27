@@ -1,4 +1,4 @@
-# Trò chơi rắn săn mồi cơ bản viết bằng Java Swing
+# Basic snake game written in Java Swing
 
 ## Preview
 
